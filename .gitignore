@@ -26,3 +26,13 @@ content/themes/yourtheme/*
 !/content/themes/yourtheme/*
 
 .DS_Store
+
+*.db
+
+*.db
+
+content/data/ghost-dev.db
+
+content/themes/nexus/package.json
+
+content/themes/nexus/package.json
